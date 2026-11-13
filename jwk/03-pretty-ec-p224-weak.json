@@ -1,0 +1,7 @@
+{
+  "kty": "EC",
+  "kid": "ec-p224",
+  "crv": "P-224",
+  "x": "Lc84vsFPyDBTIn_Kuis9HINPQJnuPjtU_O3MRQ",
+  "y": "Pr62JG0WWuj1NAsUlEtHelBcWnb2cOHg7KIUaw"
+}
